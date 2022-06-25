@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cos.pgyer.com/f415eb96547176d667433fb24b789f22.ipa?sign=456adb3752b9a11c1d7c653581c2ab6b&amp;t=1656180215&amp;response-content-disposition=attachment%3Bfilename%3D%E4%BF%A1%E9%93%B6%E4%BC%97%E6%B5%8B_2.0.1.2.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.bankofcitic.zcydpro</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>信银众测</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
